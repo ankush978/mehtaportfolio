@@ -1,0 +1,12 @@
+{
+  "Button": 2,
+  "TextBox": 27,
+  "Step": 1,
+  "Flex": 26,
+  "Div": 1,
+  "Image": 2,
+  "Carousel": 1,
+  "Accordion": 1,
+  "Dropdown": 1,
+  "Menu": 1
+}
